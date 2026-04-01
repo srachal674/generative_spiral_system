@@ -1,4 +1,5 @@
 # Generative Spiral System
+![Generative Spiral System](images/spiral_example.png)
 
 A Python program that creates dynamic, colorful spiral patterns using
 the turtle graphics library.
