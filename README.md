@@ -1,3 +1,5 @@
+> **Moved:** Continue development in [coding-projects/python/generative_spiral_system](https://github.com/srachal674/coding-projects/tree/main/python/generative_spiral_system). This repository is retained as a historical copy. Its original history is also preserved at [preserved/generative_spiral_system/main-2026-09-23](https://github.com/srachal674/coding-projects/tree/preserved/generative_spiral_system/main-2026-09-23).
+
 # Generative Spiral System
 ![Generative Spiral System](images/spiral_example.png)
 
